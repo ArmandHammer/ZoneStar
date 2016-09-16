@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Do you want to enable location services when app is in the foreground?</string>
+
+<key>NSLocationAlwaysUsageDescription</key>
+<string>Do you want to turn on location settings at all times? Potentially dangerous</string>
